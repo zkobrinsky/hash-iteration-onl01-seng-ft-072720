@@ -16,3 +16,5 @@ end
 puts winner
 winner
 end
+
+select_winner(passengers)
